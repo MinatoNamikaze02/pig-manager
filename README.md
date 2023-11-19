@@ -26,20 +26,7 @@ A sample of how pig-manager works:
 ```
 pig_pretty_printer -f ./example_script.pig -dl -do -l ./logs
 ```
-
-+-----------------+--------+
-| Category        | Count  |
-+=================+========+
-| Furniture       | 517447 |
-+-----------------+--------+
-| Technology      | 807396 |
-+-----------------+--------+
-| Office Supplies | 588687 |
-+-----------------+--------+
-|                 |        |
-+-----------------+--------+
-
-```
+<img width="244" alt="Screenshot 2023-11-20 at 1 08 03 AM" src="https://github.com/MinatoNamikaze02/pig-manager/assets/85065053/d801d375-cb97-4659-8f88-33611f8b9b7d">
 
 ## License
 This project is licensed under the MIT License.
