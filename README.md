@@ -27,6 +27,7 @@ A sample of how pig-manager works:
 ```
 pig_pretty_printer -f ./example_script.pig -dl -do -l ./logs
 ```
+<img width="326" alt="Screenshot 2023-11-20 at 1 25 44 AM" src="https://github.com/MinatoNamikaze02/pig-manager/assets/85065053/07f33b2f-77b7-4236-8130-0311a2a90f72">
 
 ## License
 This project is licensed under the MIT License.
