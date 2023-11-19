@@ -1,5 +1,6 @@
 # Pig Manager
-A simple pretty printer for Pig Latin scripts because it looks really bad!
+A simple pretty printer for Pig Latin scripts because the default one looks really bad! Runs your pig commands for you, intercepts the output and prints it for you in a delightful manner.
+**feel free to add issues**
 
 ## Installation
 To install Pig Pretty Printer, simply use pip:
